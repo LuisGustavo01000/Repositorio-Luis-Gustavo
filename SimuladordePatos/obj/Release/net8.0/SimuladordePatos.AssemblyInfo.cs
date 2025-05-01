@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimuladordePatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b34f3256d6df8d63ecb0f968eac045319c7b1e28")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimuladordePatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimuladordePatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

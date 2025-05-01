@@ -1,0 +1,33 @@
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.Form1.resources
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.csproj.GenerateResource.cache
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.AssemblyInfoInputs.cache
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.AssemblyInfo.cs
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.exe
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.deps.json
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.runtimeconfig.json
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.pdb
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\refint\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.pdb
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.genruntimeconfig.cache
+C:\Users\Luiz\Desktop\POO\Exerciocio formasGeometricas\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\ref\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.exe
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.deps.json
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.runtimeconfig.json
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\bin\Debug\net8.0-windows\SistemaFiguraGeometrica.pdb
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.Form1.resources
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.csproj.GenerateResource.cache
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.AssemblyInfoInputs.cache
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.AssemblyInfo.cs
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.sourcelink.json
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\refint\SistemaFiguraGeometrica.dll
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.pdb
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\SistemaFiguraGeometrica.genruntimeconfig.cache
+C:\Users\Luiz\Desktop\Nova pasta (2)\Repositorio-Luis-Gustavo\SistemaFiguraGeometrica\SistemaFiguraGeometrica\obj\Debug\net8.0-windows\ref\SistemaFiguraGeometrica.dll

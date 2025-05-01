@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\luiz\\desktop\\poo\\exerciocio formasgeometricas\\sistemafigurageometrica\\formasgeometricas\\formasgeometricas\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\luiz\\desktop\\poo\\exerciocio formasgeometricas\\sistemafigurageometrica\\formasgeometricas\\formasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\luiz\\desktop\\poo\\exerciocio formasgeometricas\\sistemafigurageometrica\\formasgeometricas\\formasgeometricas\\octagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\octagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|c:\\users\\luiz\\desktop\\poo\\exerciocio formasgeometricas\\sistemafigurageometrica\\formasgeometricas\\formasgeometricas\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FC1B6D-9D26-4B46-AE75-12F9D0EEB0F0}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Triangulo.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Triangulo.cs",
+              "RelativeToolTip": "FormasGeometricas\\Triangulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:56:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Forma.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Forma.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Forma.cs",
+              "RelativeToolTip": "FormasGeometricas\\Forma.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:51:09.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Program.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Program.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Program.cs",
+              "RelativeToolTip": "FormasGeometricas\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:48:30.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Octagono.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Octagono.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Octagono.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\POO\\Exerciocio formasGeometricas\\SistemaFiguraGeometrica\\FormasGeometricas\\FormasGeometricas\\Octagono.cs",
+              "RelativeToolTip": "FormasGeometricas\\Octagono.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:00:50.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
