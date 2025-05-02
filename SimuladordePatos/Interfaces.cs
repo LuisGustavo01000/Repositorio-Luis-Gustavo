@@ -20,4 +20,19 @@ namespace SimuladordePatos
     {
         void swin();
     }
+
+    public interface IDizzy
+    {
+        void spin();
+    }
+    public interface IDabbling
+    {
+        void dabble();
+    }
+    public interface IBroken
+    {
+        void breaking();
+    }
+
+
 }

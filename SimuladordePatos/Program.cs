@@ -37,6 +37,19 @@ public class Program
         ducks.quack();
         ducks.swin();
 
+        DuckLing duckling = new DuckLing("Pato Filhote");
+        duckling.display();
+        duckling.quack();
+        duckling.swin();
+
+        DizzyDuck duckdizzy = new DizzyDuck("Pato Tonto");
+        duckdizzy.display();
+        duckdizzy.quack();
+        duckdizzy.spin();
+
+        DecoyDuck duckdecoy = new DecoyDuck("Pato de Madeira");
+        duckdecoy.display();
+        duckdecoy.breaking();
 
     }
 }
